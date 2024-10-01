@@ -20,6 +20,12 @@ public class Robo{
         posY = X;
     }
 
+    public void mover(double X, double Y, double Z){
+        posX = X;
+        posY = Y;
+        posZ = Z;
+    }
+
     public double getX(){
         return posX;
     }
@@ -36,4 +42,7 @@ public class Robo{
         posY = Y;
     }
 
+    public double calcTempoTrajetoria(double x, double y, double z){
+        return 0;
+    }
 }

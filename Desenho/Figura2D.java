@@ -1,1 +1,8 @@
-private abstract class Figura2D{}
+public abstract class Figura2D{
+    private String cor;
+
+    Figura2D()
+        cor = "Neutro";
+
+    
+}

@@ -1,0 +1,1 @@
+private abstract class Figura2D{}

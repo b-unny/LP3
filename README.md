@@ -1,2 +1,1 @@
-avaliação OTA num: ?
-vale 0.75 se entrege na aula e 1.00 senão (??)
+2024.3 Linguagem de Programação - Lessions
